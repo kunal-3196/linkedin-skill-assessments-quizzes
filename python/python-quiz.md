@@ -1544,3 +1544,9 @@ print(matrix.shape)
 - [ ] attributions
 - [ ] accelaration
 - [ ] functional programming
+
+#### Q114. It is usually true that pandas library is used for ______ data and NumPy for ______ data.
+- [ ] numerical; tabular
+- [ ] string; numerical
+- [ ] unstructured; structured
+- [x] tabular; numerical
